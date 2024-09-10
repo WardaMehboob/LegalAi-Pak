@@ -13,6 +13,7 @@ export default function Home() {
           priority
         />
         {/* warda mehboob */}
+        {/* Another comment */}
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
             Get started by editing{" "}
